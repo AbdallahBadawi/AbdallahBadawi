@@ -11,5 +11,9 @@
 <h2>Most Used Languages</h2>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahBadawi&layout=compact&theme=dark&hide_border=true)
+<!-- ====== GitHub Stats ====== -->
+## GitHub Stats
+![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdallahBadawi&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahBadawi&layout=compact&theme=dark)
 
 </div>
