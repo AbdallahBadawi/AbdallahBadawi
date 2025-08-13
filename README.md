@@ -1,29 +1,31 @@
-<!-- ====== Header ====== -->
 <h1 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">
-    Hello 👋, I'm Abdullah
-  </marquee>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Abdullah;Software+Engineer+Intern;Passionate+about+Programming&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
 </h1>
-<h3 align="center">Software Engineer Intern | Passionate about Programming</h3>
 
-<p align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="Logo" width="150"/>
-</p>
+• 🔨 I'm currently working on [Your Current Project](https://github.com/AbdallahBadawi/project-name)
+• 🤝 I'm looking for help with Full-Stack Development projects:
+  ° [Project 1](https://github.com/AbdallahBadawi/project1)
+  ° [Project 2](https://github.com/AbdallahBadawi/project2)
+  ° [Project 3](https://github.com/AbdallahBadawi/project3)
+• ⚡ Feel free to read [my blog](https://your-blog-url.com) or see [my resume](https://your-resume-url.com)
+• 📧 How to reach me: [your-email@example.com](mailto:your-email@example.com)
 
-<!-- ====== About Me ====== -->
-## About Me
-- 🔭 Currently improving my skills in software development
-- 🌱 Learning modern technologies like **Python, JavaScript, C#**
-- 💬 Ask me about programming and tech
+<div align="left">
+<h2>Abdullah's GitHub Stats</h2>
 
-<!-- ====== GitHub Stats ====== -->
-## GitHub Stats
-![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdallahBadawi&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahBadawi&layout=compact&theme=dark)
+⭐ **Total Stars Earned:** ![GitHub User's stars](https://img.shields.io/github/stars/AbdallahBadawi?style=social)
 
-<!-- ====== Connect with me ====== -->
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+🔄 **Total Commits (2025):** ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/AbdallahBadawi/AbdallahBadawi)
+
+❗ **Total Issues:** ![GitHub issues](https://img.shields.io/github/issues/AbdallahBadawi/AbdallahBadawi)
+
+📁 **Contributed to (last year):** Multiple repositories
+
+</div>
+
+<div align="right">
+<h2>Most Used Languages</h2>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahBadawi&layout=compact&theme=dark&hide_border=true)
+
+</div>
