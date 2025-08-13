@@ -3,7 +3,7 @@
 </h1>
 
 - 🔭 Currently improving my skills in software development
-- 🌱 Learning modern technologies like **.NET, C#, C++**
+- 🌱 Learning modern technologies like **.NET, C#, C++, Windows Services, RESTful API**
 <!-- - ⚡ Feel free to read [my resume](https://your-resume-url.com) -->
 - 📫 How to reach me: [eng.abdallah.k.badawi@gmail.com](mailto:eng.abdallah.k.badawi@gmail.com)
 
