@@ -58,26 +58,9 @@
   <a href="https://github.com/AbdallahBadawi/Banking-System-Cpp-July2024">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahBadawi&repo=Banking-System-Cpp-July2024&theme=dark&hide_border=true" alt="Project 1"/>
   </a>
-  <a href="https://github.com/AbdallahBadawi/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahBadawi&repo=project2&theme=dark&hide_border=true" alt="Project 2"/>
+  <a href="https://github.com/AbdallahBadawi/DVLD-License-System-Feb2025">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahBadawi&repo=DVLD-License-System-Feb2025&theme=dark&hide_border=true" alt="Project 2"/>
   </a>
-</div>
-
-<!-- ====== Coding Activity ====== -->
-## ⏱️ Coding Time
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- ====== Achievements & Trophies ====== -->
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdallahBadawi&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
-<!-- ====== Random Dev Quote ====== -->
-## 💭 Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </div>
 
 <!-- ====== Recent Activity ====== -->
@@ -99,22 +82,10 @@
   </a>
 </div>
 
-<!-- ====== Support ====== -->
-## ☕ Support Me
-<div align="center">
-  <a href="https://www.buymeacoffee.com/abdullah">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="https://ko-fi.com/abdullah">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-  </a>
-</div>
-
 <!-- ====== Footer ====== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
   
   **"Code is poetry written in logic"** ✨
   
-  <sub>Made with ❤️ and lots of ☕</sub>
 </div>
