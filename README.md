@@ -9,11 +9,6 @@
   <img src="https://your-logo-url.com/logo.png" alt="Logo" width="150"/>
 </p>
 
-<!-- ====== Visitor Counter ====== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdallahBadawi&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
-
 <!-- ====== About Me ====== -->
 ## About Me
 - 🔭 Currently improving my skills in software development
@@ -57,21 +52,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahBadawi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
-<!-- ====== Activity Graph ====== -->
-## 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdallahBadawi&bg_color=0d1117&color=ffffff&line=00b4d8&point=00b4d8&area=true&hide_border=true" alt="Contribution Graph"/>
-
-<!-- ====== Streak Stats ====== -->
-## 🔥 GitHub Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdallahBadawi&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
-
 <!-- ====== Featured Projects ====== -->
 ## 🚀 Featured Projects
 <div align="center">
-  <a href="https://github.com/AbdallahBadawi/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahBadawi&repo=project1&theme=dark&hide_border=true" alt="Project 1"/>
+  <a href="https://github.com/AbdallahBadawi/Banking-System-Cpp-July2024">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahBadawi&repo=Banking-System-Cpp-July2024&theme=dark&hide_border=true" alt="Project 1"/>
   </a>
   <a href="https://github.com/AbdallahBadawi/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahBadawi&repo=project2&theme=dark&hide_border=true" alt="Project 2"/>
