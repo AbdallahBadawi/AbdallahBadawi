@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Salam,+there!+👋;This+is+Abdallah+Badawi+!;Nice+to+meet+you+😄&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Salam,+there!+👋;This+is+Abdallah+Badawi!;Nice+to+meet+you+😄&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
 </h1>
 
 - 🔭 Currently improving my skills in software development
