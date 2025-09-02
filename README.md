@@ -3,7 +3,7 @@
 </h1>
 
 - 🔭 Currently improving my skills in software development
-- 🌱 Learning modern technologies like **.NET, C#, C++, SQL-Database, Windows Services, REST APIs**
+- 🌱 Learning modern technologies like **.NET, C#, C++, SQL-Database, Windows Services, RESTful APIs**
 - 📫 How to reach me: [eng.abdallah.k.badawi@gmail.com](mailto:eng.abdallah.k.badawi@gmail.com)
 
  <img src="https://github-readme-stats.vercel.app/api?username=AbdallahBadawi&show_icons=true&theme=transparent&hide_border=true&hide=prs">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahBadawi&show_icons=true&theme=transparent&layout=compact&hide_border=true">
